@@ -1,2 +1,2 @@
-# Shiniwiki_issues
+# Shinywiki_issues
 Repo for handling issues of shiniwiki
