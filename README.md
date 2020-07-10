@@ -1,2 +1,14 @@
+# 샤니위키_이슈
+본 레포는 한글 [샤니위키](http://shinycolors.info)의 이슈들을 모으고, 해결하기 위한 레포입니다.
+
+<img src="./src/0.1.0.PNG" width="500px" title="대문" alt="대문"/><br/>
+
+샤니위키는 게임  **아이돌 마스터 샤이니 컬러즈** 의 한국어 위키입니다.   
+한국어로 번역된 캐릭터 정보, 게임 가이드, 번역 커뮤 등 다양한 기능을 제공하고 있습니다.   
+
+위키 소개 [페이지](http://shinycolors.info/Project:소개) 및 [편집 지침](http://shinycolors.info/Help:편집_지침), [자주 하는 질문](http://shinycolors.info/자주_하는_질문) 등을 확인해주세요.
+
 # Shinywiki_issues
-Repo for handling issues of shiniwiki
+Repo for handling issues of [shinywiki](http://shinycolors.info)
+
+<img src="./src/0.1.0.PNG" width="500px" title="Main Page" alt="Main Page"/><br/>
